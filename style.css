@@ -144,6 +144,7 @@ body {
 }
 
 .rodape {
+    display: none;
     color: var(--White);
     font-size: .7em;
 }
